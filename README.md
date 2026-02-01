@@ -47,3 +47,54 @@ Eliminate dependency on paid BI tools and internet connectivity
 🌙 Light/Dark mode UI
 
 🖥️ Runs locally in browser (offline support)
+
+🛠️ Tech Stack
+
+Python
+
+Streamlit
+
+Pandas
+
+Plotly / Matplotlib
+
+NumPy
+
+SQL (data querying & structure)
+
+🏗️ Architecture (Explain verbally in interviews)
+
+Data ingestion & validation
+
+Preprocessing & cleaning
+
+Exploratory Data Analysis
+
+Visualization & KPI computation
+
+Report generation & export
+
+📈 Business Impact
+
+Reduced manual analysis time by ~5+ hours per reporting cycle
+
+Enabled non-technical users to perform independent analysis
+
+Improved turnaround time for insights and reporting
+
+Eliminated dependency on paid BI tools
+
+🚀 Future Enhancements
+
+Role-based access & multi-user support
+
+Advanced KPI frameworks
+
+ML-based trend prediction
+
+Cloud deployment option
+
+👤 Author
+
+Remsha Ansari
+🔗 GitHub: https://github.com/remsha-work
